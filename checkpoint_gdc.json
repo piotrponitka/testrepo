@@ -3,9 +3,9 @@
       "description": "Generic Data Center for XSOAR - Checkpoint integration",
       "objects": [
                           {
-                               "name": "Object A name",
+                               "name": "XSOAR_BLOCKED_DESTINATIONS",
                                "id": "e7f18b60-f22d-4f42-8dc2-050490ecf6d5",
-                               "description": "Some malicious IPv4 addresses from XSOAR playbook",
+                               "description": "Risky IPv4 addresses coming from XSOAR playbooks",
                                "ranges": [
                                                      "91.198.174.192",
                                                      "20.0.0.0/24",                        
